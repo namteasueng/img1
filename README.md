@@ -1,2 +1,2 @@
 # img1
-![bird](/path/to/bird1.img)
+![bird](/path/to/bird1.jpg)
